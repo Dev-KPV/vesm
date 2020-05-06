@@ -10,4 +10,4 @@ https://github.com/Dev-KPV/vesm/wiki/Hjalpargögn
 
 # 3D Design
 
-##link 1. https://www.tinkercad.com/things/fEN6cIX4KiJ-bill/edit
+##link 1. https://www.tinkercad.com/things/fEN6cIX4KiJ-bill/edit Polygon = DC motors
